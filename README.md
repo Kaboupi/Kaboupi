@@ -56,17 +56,15 @@ management, and self-hosting.
 
 ![NixOS](https://img.shields.io/badge/-NIXOS-4D73B8?style=flat&logo=nixos&logoColor=white)
 
-Coming soon...
+*Coming soon...*
 
 ### 📝 Neovim dotfiles
 
 ![NEOVIM](https://img.shields.io/badge/-NEOVIM-7CB95B?style=flat&logo=neovim&logoColor=white)
 ![VIM](https://img.shields.io/badge/-VIM-009930?style=flat&logo=vim&logoColor=white)
 
-Coming soon...
+*Coming soon...*
 
 ---
 
-[![Kaboupi's github stats](https://github-readme-stats.vercel.app/api?username=Kaboupi&show_icons=true&hide_title=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaboupi&layout=compact&hide_title=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Kaboupi's github stats](https://github-readme-stats.vercel.app/api?username=Kaboupi&show_icons=true&hide_title=true&theme=dark&border_radius=16&rank_icon=github)
