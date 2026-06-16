@@ -1,5 +1,10 @@
 # Kaboupi
 
+<!-- Lain: https://i.redd.it/37qjly9b90dy.gif -->
+<p align="center">
+  <img src="https://i.redd.it/37qjly9b90dy.gif" width="280" alt="Anime Programming" />
+</p>
+
 I am Data Engineer / DevOps and Software Developer, NixOS and VIM user.
 
 As a developer, I am primarily focused on building backend systems,
@@ -7,7 +12,7 @@ data pipelines, and automation tools using Python and Rust.
 Also, very interested in system administration, modern infrastructure
 management, and self-hosting.
 
-> ✨ Trying to make things simple as possible.
+> ✨ Trying to make things as simple as possible.
 
 ## Skill Tree
 
