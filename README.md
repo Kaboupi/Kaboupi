@@ -5,7 +5,7 @@
   <img src="https://i.redd.it/37qjly9b90dy.gif" width="280" alt="Anime Programming" />
 </p>
 
-I am Data Engineer / DevOps and Software Developer, NixOS and VIM user.
+Data Engineer / DevOps and Software Developer, NixOS and VIM user.
 
 As a developer, I am primarily focused on building backend systems,
 data pipelines, and automation tools using Python and Rust.
