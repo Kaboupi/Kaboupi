@@ -61,14 +61,14 @@ management, and self-hosting.
 
 ![NixOS](https://img.shields.io/badge/-NIXOS-4D73B8?style=flat&logo=nixos&logoColor=white)
 
-*Coming soon...*
+*WIP*
 
 ### 📝 Neovim dotfiles
 
 ![NEOVIM](https://img.shields.io/badge/-NEOVIM-7CB95B?style=flat&logo=neovim&logoColor=white)
 ![VIM](https://img.shields.io/badge/-VIM-009930?style=flat&logo=vim&logoColor=white)
 
-*Coming soon...*
+*WIP*
 
 ---
 
