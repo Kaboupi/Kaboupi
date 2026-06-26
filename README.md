@@ -59,12 +59,12 @@ management, and self-hosting.
 
 ### ❄️ NixOS dotfiles
 
-[![Nixos dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=kaboupi&repo=nixos-dotfiles&theme=dark)](https://github.com/kaboupi/nixos-dotfiles)
+[![Nixos dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=kaboupi&repo=nixos-dotfiles&theme=transparent)](https://github.com/kaboupi/nixos-dotfiles)
 
 ### 📝 Neovim configuration
 
-[![LazyLain](https://github-readme-stats.vercel.app/api/pin/?username=kaboupi&repo=LazyLain&theme=dark)](https://github.com/kaboupi/LazyLain)
+[![LazyLain](https://github-readme-stats.vercel.app/api/pin/?username=kaboupi&repo=LazyLain&theme=transparent)](https://github.com/kaboupi/LazyLain)
 
 ---
 
-![Kaboupi's github stats](https://github-readme-stats.vercel.app/api?username=Kaboupi&show_icons=true&hide_title=true&theme=dark&border_radius=16&rank_icon=github)
+![Kaboupi's github stats](https://github-readme-stats.vercel.app/api?username=Kaboupi&show_icons=true&hide_title=true&theme=transparent&border_radius=16&rank_icon=github)
