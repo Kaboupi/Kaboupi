@@ -2,7 +2,7 @@
 
 <!-- Lain: https://i.redd.it/37qjly9b90dy.gif -->
 <p align="center">
-  <img src="https://i.redd.it/37qjly9b90dy.gif" width="280" alt="Anime Programming" />
+  <img src="https://i.redd.it/37qjly9b90dy.gif" width="280" alt="Lain" />
 </p>
 
 Data Engineer / DevOps and Software Developer, NixOS and VIM user.
