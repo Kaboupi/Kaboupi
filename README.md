@@ -59,16 +59,11 @@ management, and self-hosting.
 
 ### ❄️ NixOS dotfiles
 
-![NixOS](https://img.shields.io/badge/-NIXOS-4D73B8?style=flat&logo=nixos&logoColor=white)
+[![Nixos dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=kaboupi&repo=nixos-dotfiles&theme=dark)](https://github.com/kaboupi/nixos-dotfiles)
 
-*WIP*
+### 📝 Neovim configuration
 
-### 📝 Neovim dotfiles
-
-![NEOVIM](https://img.shields.io/badge/-NEOVIM-7CB95B?style=flat&logo=neovim&logoColor=white)
-![VIM](https://img.shields.io/badge/-VIM-009930?style=flat&logo=vim&logoColor=white)
-
-*WIP*
+[![LazyLain](https://github-readme-stats.vercel.app/api/pin/?username=kaboupi&repo=LazyLain&theme=dark)](https://github.com/kaboupi/LazyLain)
 
 ---
 
