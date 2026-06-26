@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown-dark.min.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0d1117;
+        }
+        .markdown-body {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+            background-color: #0d1117;
+            color: #c9d1d9;
+        }
+    </style>
+</head>
+<body>
+    <div class="markdown-body">
+        <textarea id="readme" style="display:none;">
+        </textarea>
+        <div id="content"></div>
+    </div>
+
+    <script>
+        fetch('README.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('content').innerHTML = text;
+            })
+            .catch(error => {
+                document.getElementById('content').innerHTML = '<p>Error loading README.md</p>';
+            });
+    </script>
+</body>
+</html>
